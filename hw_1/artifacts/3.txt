@@ -1,0 +1,5 @@
+35	88	905	3.wc.py
+41	103	798	/home/chechevatov/.bashrc
+27	63	610	2.tail.py
+14	31	371	1.nl.py
+117	285	2684	total

@@ -1,0 +1,22 @@
+==> 2.tail.py <==
+        lines = file.readlines()
+        tail = lines[-n:]
+        tail = map(str.rstrip, tail)
+        if print_filename:
+            print(f'==> {file.name} <==')
+        for line in tail:
+            print(line)
+
+if __name__ == "__main__":
+    cli()
+==> /home/chechevatov/.bashrc <==
+
+# Make Ctrl+K interrupt command in terminal
+stty intr \^k
+
+. "/opt/rust/cargo/env"
+
+eval "$(thefuck --alias)"
+
+alias open=xdg-open
+

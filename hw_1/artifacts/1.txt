@@ -1,0 +1,56 @@
+     1	#!/usr/bin/python
+     2	
+     3	from itertools import chain
+     4	import click
+     5	
+     6	@click.command()
+     7	@click.argument("files", type=click.File("r"), nargs=-1)
+     8	def cli(files):
+     9	    for line_no, line in enumerate(map(lambda line: line.rstrip(), chain.from_iterable(map(lambda file: file.readlines(), files))), start=1):
+    10	        print(f"{line_no:>6}\t{line}")
+    11	
+    12	
+    13	if __name__ == "__main__":
+    14	    cli()
+    15	# .bashrc
+    16	
+    17	# Source global definitions
+    18	if [ -f /etc/bashrc ]; then
+    19	    . /etc/bashrc
+    20	fi
+    21	
+    22	# User specific environment
+    23	if ! [[ "$PATH" =~ "$HOME/.local/bin:$HOME/bin:" ]]; then
+    24	    PATH="$HOME/.local/bin:$HOME/bin:$PATH"
+    25	fi
+    26	export PATH
+    27	
+    28	# Uncomment the following line if you don't like systemctl's auto-paging feature:
+    29	# export SYSTEMD_PAGER=
+    30	
+    31	# User specific aliases and functions
+    32	if [ -d ~/.bashrc.d ]; then
+    33	    for rc in ~/.bashrc.d/*; do
+    34	        if [ -f "$rc" ]; then
+    35	            . "$rc"
+    36	        fi
+    37	    done
+    38	fi
+    39	unset rc
+    40	
+    41	export EDITOR=nano
+    42	export RUSTUP_HOME=/opt/rust/rustup
+    43	export CARGO_HOME=/opt/rust/cargo
+    44	export CC=/usr/bin/clang
+    45	export CXX=/usr/bin/clang++
+    46	
+    47	# Make Ctrl+K interrupt command in terminal
+    48	stty intr \^k
+    49	
+    50	. "/opt/rust/cargo/env"
+    51	
+    52	eval "$(thefuck --alias)"
+    53	
+    54	alias open=xdg-open
+    55	
+    56	hello from stdin
