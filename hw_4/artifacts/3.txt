@@ -1,0 +1,70 @@
+67676 2025-12-26 22:58:51.299838 A started
+67678 2025-12-26 22:58:51.301535 B started
+badfewg
+67667 2025-12-26 22:58:54.370611 main stdin line badfewg
+67676 2025-12-26 22:58:54.371279 A Received line badfewg
+iesrhhiore
+67667 2025-12-26 22:58:56.746095 main stdin line iesrhhiore
+pihjeihjeoihjeroih
+67667 2025-12-26 22:58:58.223416 main stdin line pihjeihjeoihjeroih
+eriohorehoerh67676 2025-12-26 22:58:59.371401 A Sending line badfewg
+67676 2025-12-26 22:58:59.372365 A Received line iesrhhiore
+67678 2025-12-26 22:58:59.372966 B Received line badfewg
+67678 2025-12-26 22:58:59.379379 B Sending line onqsrjt
+
+67667 2025-12-26 22:58:59.498122 main stdin line eriohorehoerh
+67667 2025-12-26 22:58:59.498433 main Received line onqsrjt
+67676 2025-12-26 22:59:04.372950 A Sending line iesrhhiore
+67676 2025-12-26 22:59:04.373111 A Received line pihjeihjeoihjeroih
+67678 2025-12-26 22:59:04.373334 B Received line iesrhhiore
+67678 2025-12-26 22:59:04.373405 B Sending line vrfeuuvber
+67676 2025-12-26 22:59:09.373351 A Sending line pihjeihjeoihjeroih
+67676 2025-12-26 22:59:09.373608 A Received line eriohorehoerh
+67678 2025-12-26 22:59:09.373631 B Received line pihjeihjeoihjeroih
+67678 2025-12-26 22:59:09.373700 B Sending line cvuwrvuwrbvuwrebvu
+67676 2025-12-26 22:59:14.373715 A Sending line eriohorehoerh
+67678 2025-12-26 22:59:14.373914 B Received line eriohorehoerh
+67678 2025-12-26 22:59:14.373950 B Sending line revbuberubreu
+a
+67667 2025-12-26 22:59:32.219714 main stdin line a
+67667 2025-12-26 22:59:32.219876 main Received line vrfeuuvber
+6766767676  2025-12-26 22:59:32.220018 2025-12-26 22:59:32.220011main  AReceived line Received line  cvuwrvuwrbvuwrebvua
+
+67667 2025-12-26 22:59:32.220111 main Received line revbuberubreu
+67676 2025-12-26 22:59:37.220152 A Sending line a
+67678 2025-12-26 22:59:37.220367 B Received line a
+67678 2025-12-26 22:59:37.220403 B Sending line n
+
+
+
+
+
+68234 2025-12-26 23:00:28.492343 A started
+68235 2025-12-26 23:00:28.493961 B started
+WEKBJGKEW
+68228 2025-12-26 23:00:30.326678 main stdin line WEKBJGKEW
+68234 2025-12-26 23:00:30.327221 A Received line WEKBJGKEW
+;STRHIJSI
+68228 2025-12-26 23:00:31.196547 main stdin line ;STRHIJSI
+
+68228 2025-12-26 23:00:31.226602 main stdin line
+3494680YJ68234 2025-12-26 23:00:35.327332 A Sending line wekbjgkew
+68234 2025-12-26 23:00:35.328044 A Received line ;STRHIJSI
+68235 2025-12-26 23:00:35.328389 B Received line wekbjgkew
+68235 2025-12-26 23:00:35.329097 B Sending line jrxowtxrj
+68234 2025-12-26 23:00:40.328423 A Sending line ;strhijsi
+68234 2025-12-26 23:00:40.328541 A Received line
+68235 2025-12-26 23:00:40.328700 B Received line ;strhijsi
+68235 2025-12-26 23:00:40.328768 B Sending line ;fgeuvwfv
+68234 2025-12-26 23:00:45.328782 A Sending line
+68235 2025-12-26 23:00:45.329098 B Received line
+68235 2025-12-26 23:00:45.329181 B Sending line
+unblocking main to read from b queue
+68228 2025-12-26 23:00:59.202379 main stdin line 3494680YJunblocking main to read from b queue
+68228 2025-12-26 23:00:59.202681 68234main Received line  jrxowtxrj
+2025-12-26 23:00:59.202695 A Received line 3494680YJunblocking main to read from b queue
+68228 2025-12-26 23:00:59.202774 main Received line ;fgeuvwfv
+68228 2025-12-26 23:00:59.202828 main Received line
+68234 2025-12-26 23:01:04.202873 A Sending line 3494680yjunblocking main to read from b queue
+68235 2025-12-26 23:01:04.203309 B Received line 3494680yjunblocking main to read from b queue
+68235 2025-12-26 23:01:04.203370 B Sending line 3494680lwhaoybpxvat znva gb ernq sebz o dhrhr

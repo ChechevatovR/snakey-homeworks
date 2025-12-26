@@ -1,0 +1,3 @@
+test_sync took 13.289732933044434 seconds
+test_threads took 13.908445596694946 seconds
+test_processes took 2.0916779041290283 seconds

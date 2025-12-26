@@ -1,0 +1,12 @@
+test_thread((1,) {}) took 0.9943006038665771 seconds
+test_process((1,) {}) took 10.044919729232788 seconds
+test_thread((2,) {}) took 0.9275403022766113 seconds
+test_process((2,) {}) took 10.204224586486816 seconds
+test_thread((4,) {}) took 0.8720493316650391 seconds
+test_process((4,) {}) took 10.083671569824219 seconds
+test_thread((8,) {}) took 1.00325345993042 seconds
+test_process((8,) {}) took 10.416935920715332 seconds
+test_thread((16,) {}) took 1.0183360576629639 seconds
+test_process((16,) {}) took 10.036745309829712 seconds
+test_thread((32,) {}) took 0.9973313808441162 seconds
+test_process((32,) {}) took 11.857956171035767 seconds
